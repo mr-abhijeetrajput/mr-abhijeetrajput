@@ -1,5 +1,23 @@
 # Hi there, I'm Abhijeet! 👋
-
+<table>
+  <tr>
+    <td>
+      <p align="left">
+        I build cloud infrastructure that works reliably, scales smartly, and doesn't break the budget.
+        <br><br>
+        Over the past 4 years, I've gone from learning Linux, Docker, and Kubernetes to designing full AWS environments, automating CI/CD pipelines, and helping teams deploy with confidence.
+        <br><br>
+        My focus is simple: make infrastructure invisible so teams can focus on building great products.
+      </p>
+      <p align="left">
+        <img src="https://komarev.com/ghpvc/?username=mr-abhijeetrajput&label=Profile%20views&color=0e75b6&style=flat" alt="mr-abhijeetrajput" />
+      </p>
+    </td>
+    <td>
+      <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="300" align="right">
+    </td>
+  </tr>
+</table>
 <!--
 **mr-abhijeetrajput/mr-abhijeetrajput** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
