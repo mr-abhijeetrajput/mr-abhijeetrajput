@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 -->
 ## 📈 My Github Stats
 
-<p align="center">
+<!-- <p align="center">
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mr-abhijeetrajput&theme=github_dark" alt="mr-abhijeetrajput's overview stats" />
 </p>
 <p align="center">
@@ -46,4 +46,4 @@ Here are some ideas to get you started:
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mr-abhijeetrajput&style=flat&color=blue" alt="mr-abhijeetrajput_profileviews" />
   <img src="https://badges.strrl.dev/years/mr-abhijeetrajput?style=flat&color=blue" alt="mr-abhijeetrajput_years" />
-</p>
+</p> -->
