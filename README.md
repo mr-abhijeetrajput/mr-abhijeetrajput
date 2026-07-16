@@ -4,9 +4,9 @@
     <td>
       <p align="left">
         I build cloud infrastructure that works reliably, scales smartly, and doesn't break the budget.
-        <br><br>
+        <!-- <br><br>
         Over the past 4 years, I've gone from learning Linux, Docker, and Kubernetes to designing full AWS environments, automating CI/CD pipelines, and helping teams deploy with confidence.
-        <br><br>
+        <br><br> -->
         My focus is simple: make infrastructure invisible so teams can focus on building great products.
       </p>
     </td>
